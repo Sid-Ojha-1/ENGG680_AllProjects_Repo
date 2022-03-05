@@ -1,2 +1,2 @@
-# ENGG680_MidTerm_Repo
+# ENGG680_AllProjects_Repo
 Projects in Digital Engineering course
